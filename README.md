@@ -1,10 +1,6 @@
 <h1 align="center">🅷🅾🅻🅰👋, 🆂🅾🆈 <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 🅹🅷🅾🆂🆄🅰</a></h1>
-<h3 align="center">𝑼𝒏 𝒄𝒉𝒊𝒄𝒐 𝑨𝒑𝒂𝒔𝒊𝒐𝒏𝒂𝒅𝒐 𝒑𝒐𝒓 𝒍𝒂 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂𝒄𝒊𝒐𝒏, 𝒆𝒔𝒕𝒂𝒓 𝒆𝒏 𝒖𝒏𝒊𝒎𝒊𝒏𝒖𝒕𝒐 𝒚 𝒄𝒐𝒎𝒑𝒂𝒓𝒕𝒊𝒓 𝒆𝒏 𝒇𝒂𝒎𝒊𝒍𝒊𝒂...</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<h3 align="center">𝑼𝒏 𝒄𝒉𝒊𝒄𝒐 𝑨𝒑𝒂𝒔𝒊𝒐𝒏𝒂𝒅𝒐 𝒑𝒐𝒓 𝒍𝒂 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂𝒄𝒊𝒐𝒏, 𝒆𝒔𝒕𝒂𝒓 𝒆𝒏 𝒖𝒏𝒊𝒎𝒊𝒏𝒖𝒕𝒐 𝒚 𝒄𝒐𝒎𝒑𝒂𝒓𝒕𝒊𝒓 𝒆𝒏 𝒇𝒂𝒎𝒊𝒍𝒊𝒂...</h3
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -39,8 +35,8 @@
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/jhosua_carrascal_17?igsh=MXhsaDVlcHBiczlzeA==">
+			<img width = 47px; src="https://github.com/user-attachments/assets/69bfb1ae-ac99-4f06-8cd2-15c5d26811e6"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
